@@ -3,8 +3,8 @@
 </div>
 
 <div align="center" id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="www.linkedin.com/in/тимофей-шкут-30765b34b">
+    <img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="your-Discord-URL">
   <img src="https://img.shields.io/badge/-Discord-6666ff?style=for-the-badge&logo=discord&logoColor=white" alt="-Discord Badge"/>
