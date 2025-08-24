@@ -1,4 +1,4 @@
-сделай ссылки на соцсети по центру <div id="header" align="center">
+<div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5heXdwajRuMm15bXc2bnU5enJxaTR3NjYzNHpxZHppMzdieTgxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
 </div>
 
@@ -13,11 +13,8 @@
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-0099ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=red" alt=""/>
-  </a>
 </div>
-
+<div align="center" id="counter"><img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=red" alt=""/></div>
 
 ## Hi there 👋
 <!--
