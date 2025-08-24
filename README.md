@@ -3,10 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+  <h1>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Timofey</h1>
 </div>
 
 <div align="center">
@@ -19,6 +16,7 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 - 🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
 - 🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.
 - 📫 How to reach me: by the social networks links at the beginning of the description.
+- 🌍 I speak English & Russian 
   
 ---
 ### 🛠️: Languages and Tools :
