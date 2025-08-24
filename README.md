@@ -21,7 +21,7 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 - 📫 How to reach me: by the social networks links at the beginning of the description.
   
 ---
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/C%23.ico" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/VisualStudio.ico" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
@@ -39,10 +39,10 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 </div>
 
 ---
-### :rocket: Currently Working On
+### 🚀: Currently Working On
 - New pet project on ASP.NET Core
 
-### :medal_sports: Achievements
+### ⚡: Activity
 - I am a member of various telegram channels and discussions
 - Constant regulation of the knowledge base in the IT field.
 
