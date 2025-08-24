@@ -4,7 +4,7 @@
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0000ad?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="your-Discord-URL">
   <img src="https://img.shields.io/badge/-Discord-8A2BE2?style=for-the-badge&logo=discord&logoColor=white" alt="-Discord Badge"/>
