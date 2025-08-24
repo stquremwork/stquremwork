@@ -32,7 +32,6 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/PostgreSql.ico" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/MySql.ico" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn"  alt="LinkedIn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Trello.ico" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Drawio.ico" title="DrawIO"  alt="DrawIO" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/StackOverflow.svg" title="StackOverflow"  alt="StackOverflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cloudflare/cloudflare-original.svg" title="CloudFlare"  alt="CloudFlare" width="50" height="40"/>&nbsp;
