@@ -31,11 +31,7 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 
 - :seedling: Exploring Technical Content Writing focused on .NET ecosystem and modern web development.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read technical articles about ASP.NET Core, C#, and cloud technologies.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor русском или добавить более технические детали под ASP.NET Core.
-
-[1](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+- :zap: 
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
