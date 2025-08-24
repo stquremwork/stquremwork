@@ -14,18 +14,19 @@
 ### 👨‍💻 About Me :
 <table width="100%" style="border-spacing: 0; border-collapse: collapse;">
   <tr>
-    <td align="left" width="60%" style="padding-right: 10px;">
-      I am an <b>ASP.NET Core Developer</b> from Belarus.  
-      - 🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.  
-      - 🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.  
-      - 📫 How to reach me: by the social networks links at the beginning of the description.  
-      - 🌍 I speak English & Russian  
+    <td align="left" width="60%" style="padding-right: 10px; vertical-align: top;">
+      <p>Я <b>ASP.NET Core Developer</b> из Беларуси.</p>
+      <p>🔭 Я разработчик программного обеспечения, создаю как frontend, так и backend приложения с использованием ASP.NET Core и связанных технологий для построения надежных веб-приложений.</p>
+      <p>🌱 В настоящее время изучаю DotNet Developer Roadmap, чтобы углубить знания и навыки в полном стеке разработки .NET.</p>
+      <p>📫 Связаться со мной можно по ссылкам в социальных сетях, указанным в начале описания.</p>
+      <p>🌍 Я говорю на английском и русском языках.</p>
     </td>
     <td align="right" width="40%">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5heXdwajRuMm15bXc2bnU5enJxaTR3NjYzNHpxZHppMzdieTgxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200" />
     </td>
   </tr>
 </table>
+
 
 
   
