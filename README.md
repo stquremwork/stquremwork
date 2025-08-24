@@ -38,7 +38,7 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 <div>
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/C%23.ico" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/VisualStudio.ico" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/NetFramework.ico" title="DrawIO"  alt="DrawIO" width="40" height="40"/>&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" title="NetFramework"  alt="NetFramework" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Git.ico" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/GitHub%20Desktop.ico" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Supabase.ico" title="Supabase" **alt="Supabase" width="40" height="40"/>&nbsp;
