@@ -38,14 +38,14 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 <div>
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/C%23.ico" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/VisualStudio.ico" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Git.ico" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/GitHub%20Desktop.ico" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" **alt="Supabase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Supabase.ico" title="Supabase" **alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/PostgreSql.ico" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/MySql.ico" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn"  alt="LinkedIn" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC4nAmib81PtEdmLhV8wGMFq2YyFnG5jGRaw&s" title="DrawIO"  alt="DrawIO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Trello.ico" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/Drawio.ico" title="DrawIO"  alt="DrawIO" width="40" height="40"/>&nbsp;
 </div>
 
 
