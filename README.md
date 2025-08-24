@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5heXdwajRuMm15bXc2bnU5enJxaTR3NjYzNHpxZHppMzdieTgxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
+</div>
+
+
 <!--
 **stquremwork/stquremwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
