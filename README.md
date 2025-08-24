@@ -25,14 +25,18 @@
 
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.  
+- :telescope: I’m working as a Software Engineer, contributing to both frontend and backend development using ASP.NET Core and related technologies for building robust web applications.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :seedling: Exploring Technical Content Writing focused on .NET ecosystem and modern web development.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time, I solve problems on GeeksforGeeks and read technical articles about ASP.NET Core, C#, and cloud technologies.
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor русском или добавить более технические детали под ASP.NET Core.
+
+[1](https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif)
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
