@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5heXdwajRuMm15bXc2bnU5enJxaTR3NjYzNHpxZHppMzdieTgxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
-</div>
 
 <div align="center">
   <h1>
@@ -18,7 +15,11 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 - 🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
 - 🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.
 - 📫 How to reach me: by the social networks links at the beginning of the description.
-- 🌍 I speak English & Russian 
+- 🌍 I speak English & Russian
+  <div id="header" align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG5heXdwajRuMm15bXc2bnU5enJxaTR3NjYzNHpxZHppMzdieTgxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="200"/>
+</div>
+
   
 ---
 ### 🛠️: Languages and Tools :
