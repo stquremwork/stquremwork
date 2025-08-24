@@ -45,6 +45,7 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn"  alt="LinkedIn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=lsDwPKu9v0gn&format=png&color=000000" title="Trello"  alt="Trello" width="40" height="40"/>&nbsp;
 </div>
 
 
