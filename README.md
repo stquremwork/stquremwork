@@ -26,9 +26,9 @@
 ---
 ### :man_technologist: About Me :
 I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.  
-🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
-🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.
-📫 How to reach me: by the social networks links at the beginning of the description.
+-🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
+-🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.
+-📫 How to reach me: by the social networks links at the beginning of the description.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
