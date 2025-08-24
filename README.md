@@ -37,9 +37,9 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/C%23.ico" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/VisualStudio.ico" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/GitHub%20Desktop.ico" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" **alt="Supabase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
