@@ -9,13 +9,11 @@
 <a href="your-Discord-URL">
   <img src="https://img.shields.io/badge/-Discord-6666ff?style=for-the-badge&logo=discord&logoColor=white" alt="-Discord Badge"/>
 </a>
-
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/Telegram-0099ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
 <div align="center" id="counter"><img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=6666ff" alt=""/></div>
-
 
 ## Hi there 👋
 
@@ -29,7 +27,8 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 - 🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
 - 🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.
 - 📫 How to reach me: by the social networks links at the beginning of the description.
-
+  
+---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
