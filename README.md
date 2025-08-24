@@ -26,11 +26,8 @@
 ---
 ### :man_technologist: About Me :
 I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.  
-- :telescope: I’m working as a Software Engineer, contributing to both frontend and backend development using ASP.NET Core and related technologies for building robust web applications.
-- :seedling: Exploring Technical Content Writing focused on .NET ecosystem and modern web development.
-- :zap: 
-- :mailbox:
----
+- :telescope: I am a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
