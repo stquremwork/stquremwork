@@ -3,7 +3,7 @@
 </div>
 
 <div> 
-  <img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=purple" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=#530053" alt=""/>
 </div>
 
 ## Hi there 👋
