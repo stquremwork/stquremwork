@@ -3,7 +3,7 @@
 </div>
 
 <div align="center" id="badges">
-  <a href="www.linkedin.com/in/тимофей-шкут-30765b34b">
+  <a href="your-LinkedIn-URL">
     <img src="https://img.shields.io/badge/LinkedIn-007acc?style=for-the-badge&logo=linkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="your-Discord-URL">
