@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Telegram-0099ff?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<div align="center" id="counter"><img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=red" alt=""/></div>
+<div align="center" id="counter"><img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=6666ff" alt=""/></div>
 
 ## Hi there 👋
 <!--
