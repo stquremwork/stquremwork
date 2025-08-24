@@ -19,7 +19,8 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 - 🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.
 - 🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.
 - 📫 How to reach me: by the social networks links at the beginning of the description.
-
+  
+---
 ### 🛠️: Languages and Tools :
 <div>
   <img src="https://github.com/stquremwork/My-profile-services-iscons-logo/blob/main/C%23.ico" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
@@ -37,10 +38,11 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="50" height="40"/>&nbsp;
 </div>
 
-
+---
 ### 🚀: Currently Working On
 - New pet project on ASP.NET Core
-
+  
+---
 ### ⚡: Activity
 - I am a member of various telegram channels and discussions
 - Constant regulation of the knowledge base in the IT field.
