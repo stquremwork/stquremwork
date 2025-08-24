@@ -40,7 +40,7 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
 
 ---
 ### :bar_chart: GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stquremwork&show_icons=true)](https://github.com/stquremwork)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stquremwork&show_icons=true&theme=radical)](https://github.com/stquremwork)
 
 ### :rocket: Currently Working On
 - New pet project on ASP.NET Core
