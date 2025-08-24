@@ -38,9 +38,16 @@ I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS"  alt="AWS" width="50" height="40"/>&nbsp;
 </div>
 
+---
+### :bar_chart: GitHub Stats
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=stquremwork&show_icons=true)](https://github.com/stquremwork)
 
+### :rocket: Currently Working On
+- New pet project on ASP.NET Core
 
-
+### :medal_sports: Achievements
+- I am a member of various telegram channels and discussions
+- Constant regulation of the knowledge base in the IT field.
 
 <!--
 **stquremwork/stquremwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
