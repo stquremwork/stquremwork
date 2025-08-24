@@ -11,10 +11,10 @@
 </div>
 
 ---
+### 👨‍💻 About Me :
 <table width="100%" style="border-spacing: 0; border-collapse: collapse;">
   <tr>
     <td align="left" width="60%" style="padding-right: 10px;">
-      ### 👨‍💻 About Me :
       I am an <b>ASP.NET Core Developer</b> from Belarus.  
       - 🔭 I’m a software engineer developing both frontend and backend applications using ASP.NET Core and related technologies to build robust web applications.  
       - 🌱 I’m currently learning following the DotNet Developer Roadmap to deepen my knowledge and skills across the full stack of .NET development.  
