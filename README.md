@@ -17,6 +17,9 @@
 <div align="center" id="counter"><img src="https://komarev.com/ghpvc/?username=stquremwork&style=flat-square&color=6666ff" alt=""/></div>
 
 ## Hi there 👋
+<div align="center">
+  <img src="https://i.gifer.com/72gi.gif" width="600" height="300"/>
+</div>
 ---
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
