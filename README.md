@@ -25,14 +25,11 @@
 
 ---
 ### :man_technologist: About Me :
-
 I am an **ASP.NET Core Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.  
 - :telescope: I’m working as a Software Engineer, contributing to both frontend and backend development using ASP.NET Core and related technologies for building robust web applications.
-
 - :seedling: Exploring Technical Content Writing focused on .NET ecosystem and modern web development.
-
 - :zap: 
-
+- :mailbox:
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
